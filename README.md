@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Danning, I am a recent masters graduate
 - 👀 I’m interested in data science, and machine learning.
 - 🌱 I’m a PhD student researching in federated learning.
 - 💞️ I’m looking to collaborate on data science projects or machine learning. 
