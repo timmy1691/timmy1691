@@ -1,5 +1,5 @@
 - 👀 I’m interested in data science, and machine learning.
-- 🌱 I’m a PhD student researching in federated learning.
+- 🌱 I’m a PhD student researching Data Privacy. I am currently working on the concept of a privacy preserving data lake and how to do data discovery.
 - 💞️ I’m looking to collaborate on data science projects or machine learning. 
 - 📫 I can be reached by my email danning.zhan@hotmail.com
 
